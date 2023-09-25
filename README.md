@@ -8,3 +8,8 @@
  - [ ] Correctly play playlists 
     - [ ] Add all musics to queue
  - [ ] Add support for spotify
+ - [ ] Implement Json file for settings
+    - [ ] Enter channel sound
+    - [ ] Exit channel sound
+    - [ ] Timeout
+    - [ ] Token
