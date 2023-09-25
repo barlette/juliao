@@ -9,3 +9,6 @@ downloads/*
 
 # caches
 __pycache__
+
+# miscellaneous
+misc/
